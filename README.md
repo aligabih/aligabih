@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 
   An exceptional e-commerce website project, built from scratch using JavaScript, React, Node.js, HTML, CSS, Bcrypt, and DotENV. It features a user-friendly, responsive, and seamlessly navigable website design.
 
-- **Chess Game** - Developer | [GitHub Repo](https://github.com/aligabih/Chess-Game)
+- **Chess Game** - Developer | [View Demo](https://chess-frbo.onrender.com/) | [GitHub Repo](https://github.com/aligabih/Chess-Game)
 
   A two-person chess game implemented using React and the "chess.js" library. It includes a board that flips when players switch sides and drag-and-drop functionality for moving pieces.
 
