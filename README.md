@@ -8,7 +8,7 @@ I'm a software engineering professional proficient in full-stack web development
 
 Here are some of the projects I've worked on:
 
-- **Starwars E-Commerce** - Project Lead | Developer | [View Demo](https://team8-graceshopper.onrender.com/) | [GitHub Repo](https://github.com/aligabih/Starwars-Ecommerce)
+- **Starwars E-Commerce** - Project Lead | Developer | [View Demo](https://team8-graceshopper.onrender.com/) | [GitHub Repo](https://github.com/Team-8-GraceShopper/GraceShopper)
 
   An exceptional e-commerce website project, built from scratch using JavaScript, React, Node.js, HTML, CSS, Bcrypt, and DotENV. It features a user-friendly, responsive, and seamlessly navigable website design.
 
