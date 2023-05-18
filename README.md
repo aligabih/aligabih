@@ -8,6 +8,10 @@ I'm a software engineering professional proficient in full-stack web development
 
 Here are some of the projects I've worked on:
 
+- **Infinite Worlds** - JavaScript Game Developer | [GitHub Repo](https://github.com/Infinite-Worlds-FSA/Infinite-Worlds)
+
+  Infinite Worlds is a retro-style 2D side-scroller game developed using the Phaser framework. It features moveable characters, dynamic enemy AI, challenging levels, a high scores leaderboard, and engaging sound effects. The project also includes custom tilesets, map designs, and sprite sheets.
+
 - **Starwars E-Commerce** - Project Lead | Developer | [View Demo](https://team8-graceshopper.onrender.com/) | [GitHub Repo](https://github.com/Team-8-GraceShopper/GraceShopper)
 
   An exceptional e-commerce website project, built from scratch using JavaScript, React, Node.js, HTML, CSS, Bcrypt, and DotENV. It features a user-friendly, responsive, and seamlessly navigable website design.
@@ -19,10 +23,6 @@ Here are some of the projects I've worked on:
 - **Breakout Game** - Developer | [GitHub Repo](https://github.com/aligabih/Breakout-Game)
 
   A basic game board featuring a paddle, ball, and bricks programmed using C# within a Windows Form. It includes player control, ball and wall collisions, brick disappearance, and point earning logic.
-
-- **Cody's Cafe** - Developer | [GitHub Repo](https://github.com/aligabih/Codys-Cafe)
-
-  A JavaScript-based game similar to Cookie Clicker, utilizing Express and Sequelize. It showcases a cafe-themed interface where users can earn points by clicking on various items and purchase point multipliers and upgrades.
 
 ## 🎓 Education
 
@@ -52,5 +52,3 @@ Here are some of the projects I've worked on:
 ## 📫 Contact Me
 
 - Email: aligabih@gmail.com
-- Phone: (301) 395-1096
-- LinkedIn: [linkedin.com/in/husseinaligabi/](https://linkedin.com/in/husseinaligabi/)
