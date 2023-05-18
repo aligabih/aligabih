@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
   - Associate of Arts: General Studies
   - Aug 2014 - Dec 2016
 
-## 💼 Experience
+<!-- ## 💼 Experience
 
 - Medical Assistant | VeinGuard Heart & Vascular Center, Tysons, VA | Aug 2022 - Dec 2022
   - Coordinated and prepared operating room equipment, instruments, and supplies for various surgical procedures, ensuring efficiency and safety.
@@ -47,7 +47,7 @@ Here are some of the projects I've worked on:
 
 - Surgical Tech | Anne Arundel Dermatology, Annapolis, MD | Jul 2021 - Nov 2021
   - Organized and assembled surgical equipment, instruments, and supplies for diverse surgical procedures, promoting accuracy and effectiveness.
-  - Mentored and trained new and seasoned staff members, expanding their knowledge and expertise in different departments and improving the overall efficiency of the clinic.
+  - Mentored and trained new and seasoned staff members, expanding their knowledge and expertise in different departments and improving the overall efficiency of the clinic. -->
 
 ## 📫 Contact Me
 
