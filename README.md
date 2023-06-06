@@ -2,7 +2,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aligabih&count_private=true&show_icons=true&theme=radical)](https://github.com/aligabih)
 
-I'm a software engineering professional proficient in full-stack web development. I have experience working with JavaScript, Node.js, React.js, Redux.js, PostgreSQL, and HTML/CSS. I recently graduated from Fullstack Academy's Web Development Bootcamp, where I gained practical experience in developing software solutions.
+I'm a software engineering professional proficient in full-stack web development. I have experience working with JavaScript, Node.js, React.js, Redux.js, PostgreSQL, Python, C#, and HTML/CSS. I recently graduated from Fullstack Academy's Web Development Bootcamp, where I gained practical experience in developing software solutions.
 
 ## 🚀 Projects
 
